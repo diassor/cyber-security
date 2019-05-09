@@ -1,0 +1,21 @@
+77 % de las companias han sido victimas de ciber ataques en 2017 segun Kapersky
+
+La mayoria son ataques externos, sin embargo la gran mayoria son expuestos internos
+
+
+1 point of sale malware
+    Estos dispositivos son vulnerable por malware incertado en el dispositivo por donde pasa la targeta .
+
+
+Distributed denial-of-servece (DDoS)
+    Denegacion de servicios
+        1 fase la pagina no puede estar preparada para recibir muchas visitas al mismo tiempo o puede ser por computadoras (zombies)  que quieren entrar a la pagina al mismo tiempo este tipo de ataque facilita que el servidor se sature y falle
+    Hacer un clouster para evitar la caida del servidor
+        tener alertas para los (DDoS)
+
+Phishing
+    Se hacen por correo e-mail
+        cada cuanto recives este tipo de ataque
+        los servidores de e-mails tienen poca seguridad
+        cada cuanto cambias la password de cada una de tus cuentas de banco o paginas donde realizas algun tipo de pago
+ 
