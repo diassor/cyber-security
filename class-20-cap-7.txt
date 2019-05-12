@@ -1,0 +1,47 @@
+Victimas de un ataque
+
+Que hacer al ser victima de un ataque?
+
+Checklist Base de Seguridad
+
+    Cambiar mi contraseña al menos cada 6 meses.
+
+	Usar una contraseña que use caracteres especiales y no sea
+		fácil de encontrar con mi información pública.
+
+	Encriptar mis dispositivos.
+
+	No abrir correos sospechosos que me pidan información personal
+		o autenticarme en sistemas agenos a la organización.
+
+	Evitar responder mensajes de texto promocionales desde
+		dispositivos móviles asignados y que sean empresariales.
+
+	Evitar almacenar datos de los clientes en dispositivos personales.
+
+	Evitar contestar preguntas personales en un contecto empresarial.
+
+	No dar información confidencial a terceros.
+
+	Cifrar mis dispositivos móviles.
+
+	Proteger mis dispositivos móviles. Por ejemplo, dejándolos en
+		la cajuela del auto o usando guayas de seguridad.
+
+	Evitar almacenar contraseñas en lugares pocos seguros.
+
+	Revisar si las aplicaciones que tengo instaladas son
+		falsas mirando el origen de los desarrolladores y
+		los permisos que tiene la aplicación.
+
+¿Qué hacer al ser víctima de un ataque?
+
+Si se ha sido víctima de un ataque:
+
+    Dar la alerta de inmediato.
+    Informar:
+        Cuál fue la información comprometida.
+        Cuándo pasó
+        Con qupe sistema pasó
+        Cómo ocurrió
+Para poder documentar el caso 

@@ -1,0 +1,39 @@
+Leyes de proteccion de datos
+
+Hoy en  dia  el uso de envio de informacion es digital
+por medio de la nube , esta informacion es confidencial y el
+gobierno  debe ayudar  a proteger nuestra informacion con
+leyes establecidad y reguladas
+
+El uso de los data center , donde quieres guardar tu informacion
+que pais puede cumplir con leyes de proteccion de datos
+Que repercucion puede tener si usamos un data center que
+guarda nuestra informacion , en un pais que no tiene proteccion de
+datos , los paises dende se encuentran alojados los data center
+pueden hacer uso de toda la informacion que contienen estos
+data center
+
+Argentina   Proteccion de datos personales
+ 		ley federal 25.326/2000
+		protegen los datos personales
+
+Brasil   ley de interceptacion ley federal 9296/96
+		Acceso a la informacion federal law 12.527/11
+		no se pueden interceptar llamas o datos
+		y tampoco tener acceso a la informacion de terceros
+
+Colombia  Habeas data ley 1581 de 1012 proyecto en curso
+		Hace que las empresas de lugan a los usuarios finales
+		como se esta manejando su informacion
+
+Mexico y Canada protegen la informacion de los usarios
+	osea que ni el gobierno puede ver los datos de las personas
+
+Mexico Ley federal de proteccion de datos
+
+Estados unidos tiene por encima de la proteccion de datos
+ 	que sellama ley patriota si una persona puede verse como una
+	amenaza o compromete al pais este tiene todo el derecho
+	de indagar a fondo y ver toda su informacion .
+
+Las leyes no van a la velocidad de la tecnologia

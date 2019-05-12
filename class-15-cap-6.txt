@@ -1,0 +1,10 @@
+Capitulo 6 Exposicion a ataques y como protegerse de ellos
+
+Dejar la contrasenas escritas en post-it
+
+Es muy frecuente que las contrasenas sean escritas en post-it
+por que es muy regulado el cambio de clave
+ademas que se usan patrones frecuentes para crear contrasenas
+en doc , en emails , en agendas , son sitios frecuentes para guardar
+contrasenas .
+Tenemos que usar software para centralizar nuestras contrasenas

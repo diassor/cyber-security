@@ -1,0 +1,14 @@
+Alertas templanas (entenderlas y reaccionar proactivamente)
+
+Medir el impacto que cada uno tiene a dario
+
+Mayor responsablidad = mayor impacto
+Mayor confidencialidad = mayor impacto
+
+El impacto siempre es de eje vertical
+Evitar llevar documentos confidenciales en espacios publicos
+y redes publicas
+
+cada vez que hat una alerta parar, pensar y ver que impacto
+tendria , hablar con un superior o encargado de seguidad para
+continuar 

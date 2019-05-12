@@ -1,0 +1,38 @@
+Capitulo 4 Ejemplos de ataques informaticos modernos
+
+1	Ejemplo de wi-fi impostoras
+
+Nos conectamos a redes inseguras como starbooks o redes
+publicas que tienen software maliciosos ,
+pueden robas informacion personales y bancarias o
+datos empresariales con datos confidenciales
+
+Las vpn son buenas usar cuando nos conectamos a redes publicas
+
+2	like-Jacking
+
+Secuestro de perfil en redes sociales
+Piden ingreso para ver alguna pagina en general para robar
+el usuario y el password.
+Pendiente con los articulos donde piden que se login con la red social
+que estan usando en ese momento
+
+3	Aplicaciones falsas
+
+App falsas , por recomendaciones se pasan las aplicaciones
+gemelas o clonadas , cuando se integran al cel puede recoger mucha
+informacion del dueno del celular
+Cuidado con las app leer los permisos que solicitan y por que?
+Los dispositivo son de uso muy comun y usos empresariales
+
+5	Ingenieria Social
+
+Informacion captada por otra persona haciendose pasar como amigo
+para sacar informacion general , Ejemplo Nombre mama, hijos
+de donde eres , que le gusta .
+Recopilar esta informacion ayuda para las preguntas de seguridad
+que hacen algunas aplicaciones para verificar la person
+La Ingenieria social es un ataque directo  a la persona , este es
+el punto de vulnerabilidad
+
+Hacer amigos no implica dar informcaion personal o empresarial

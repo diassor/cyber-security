@@ -1,0 +1,32 @@
+Mas alla de ataques informaticos
+
+Es un area especifica de la empresa
+creacion de usuarios y claves empresariales
+Proteger a toda costa saltar los procedimientos de seguridad
+no compartir claves o usuarios
+	Los usuarios son responsables de cualquier evento que
+	ocurra en su perfil empresarial
+
+Dos procedimeintos que se recomiendan segun  la
+organizacion
+
+Encriptar la informacion
+	Ejecutar procesos o procedimeintos de seguridad como para
+	el disco duro . que no se vean envoluncrados en un robo
+
+Hay muchas formas para desencriptar muestro perfil Ejemplo
+	por correo electronico envio de numeros de confirmacion
+	de password
+
+La informacion siempre debe esta protegida
+
+La nube
+	Hay mucha seguridad en la nube con doble procesos de password
+	envio de documentos , correos , etc,
+
+Usar los mecanismos de seguridad toda la trasabilidad queda guarda
+estamos dejando Huella en todolo que hacemos
+Las claves no se cambian tan seguido como deberia ser.
+
+La seguridad debe ser un habito siempre bloquear el compu
+no dejar ventanas de pagina web logiadas

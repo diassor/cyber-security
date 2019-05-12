@@ -1,0 +1,26 @@
+Ejemplos de Phishing y mensajes
+
+No solamente en ambientes empresariales tambien en los personales
+Pueden llegar correos o promociones increibles que solo me
+piden actualizar mis datos personales
+
+Otra forma de pedir informacion es despues de un ataque de seguridad
+pueden usar formas enviando mensajes que acabas de entrar a tu cuenta
+que por favor te autentiques , siga las siguientes normas de seguirdad
+para evitar el robo de informacion o que hagan una compra a su nombre
+
+primera revicion
+	Quien es el remitente del correo .
+		las empresas tienen un correo asociado con el nombre la empresas
+	Que hagas algo de manera Urgente , te muestran imagenes de la pagina
+		para que tengas confianza y puedas dar la informacion que es requerida
+		sin que se tengas miedo
+	Llenar los sistemas de autenticacion y en el espacio de las
+		contrasenas no ocultan los datos de la contrasenas.
+
+	Correos del banco
+		El link son originales del banco
+
+En caso de ataque comunicar con las personas superiores de la empresa
+
+Revizas las alertas de Ataques

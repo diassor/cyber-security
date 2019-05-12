@@ -1,0 +1,40 @@
+Capitulo 5 tipos de amenazas
+
+Yahoo, adove, linkedln (escenarios reales de ataques informaticos)
+
+Cuidar a los usuarios , las malas noticias afectan mucho la reputacion
+de la empresa
+
+Yahoo fue atacado mas de mil millones de cuentas comprometidas
+sustraccion de datos privados de 500 millones de usuarios
+	siguen construyendo la confianza
+
+linkedln 117 millones de contrasenas anuladas por ataques
+	detubieron las cuentas comprometidas y pidieron cambiar
+	las contrasenas a los usuarios.
+	No paso a mayores.
+
+Adobe comprometidos datos de mas de 3 millones de clientes
+	codigo fuente de algunos productos.
+
+
+WannaCry (es del tipo ransomware)
+	Hiceron un ataque masivo por vulneravilidad por backdoor
+	secuestrando cuentas y equipos para pedir soborno y ser pagano
+	de bitcoins ya que no tiene registros de transaccion
+
+Se recomienda usar backups como medida preventida cada semana
+	esta bien , si nos secuestran el equipo solo hacemos un
+	backup
+
+Wikileaks (organismos de noticias de fuentes anonimas )
+	Se vieron comprometidad muchos gobiernos como estados unidos
+	temas de espionaje , de datos secretos
+
+Ataques electorales
+	colombia , estados unidos , ha pasado en varias partes
+	como personas somos partes de una organizacion en este
+	caso organizacion del  gobierno .
+
+Siempre ser conciente que somos vulnerables , lo importante es
+tener una estrategia para cuidarnos de ataques. 

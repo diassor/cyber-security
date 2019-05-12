@@ -1,0 +1,38 @@
+Que debo hacer para encontrar el software correcto?
+
+Catalogo interno
+
+Ejemplo tenemos una computadora nueva y necesitamos hacer un doc
+que software uso o donde los descargo correctamente
+
+Las empresas deben pagar por el uso de software
+la pirateria informatica acarrear problemas
+
+Hay erramientas en la nube para usar sin necesidad de descargar
+ningun software Ejemplo: docs de google Drive
+
+
+Si la empresa tiene un Catalogo interno y si no  lo tiene podemos
+empezar a crerar uno
+
+http = revizar que tenga un candado al inicio y una (s) al confidenciale
+https =  pagina seguras
+	Revizar terminos y condiciones del software que estamos
+	descargando que tengan que instalar software adicional
+	Pueden tener codigo malicioso
+
+.org
+	Son las paginas generales para descargar los software gnu
+	Revizar las actualizaciones del software a descargar
+
+
+GNU licencia libre , son software gratuitas
+
+Apps = Las aplicaciones es complicado si no tienen un gestor de
+	aplicaciones , las empresas tiene software que permite revizar
+	el software que estemos instalando , en cualquiera de nuestros
+	bienes , laptop, ipod, o celular
+
+	Las apicaciones piden persimos leer que tipos de permisos pide
+
+	

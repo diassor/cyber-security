@@ -1,0 +1,21 @@
+Capitulo 4 Uso y asministracion de dispositivos moviles
+
+Que es el cifrado de dato?
+
+Que es la encripcion o encriptacion?
+
+la informacion siempre debe estar protegida por un robo fisico
+por ello vamos a usar la encriptacion
+La encriptacion lo que busca es usar un mecanismos con un candado
+que nos permita cambiar todo
+
+ejemplo:  pedro = (la letra que presede en el alfabeto) odcqn asi
+	quedaria encriptado la pabra pedro
+
+Hay software para encriptacion como
+	https://www.openpgp.org/
+	https://www.veracrypt.fr/en/Downloads.html
+	https://www.axcrypt.net/download/
+
+Cuando se use este tipo se software comunicarlo con las persona
+que esta en la empresa

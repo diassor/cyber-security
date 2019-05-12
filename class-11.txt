@@ -1,0 +1,115 @@
+Consejos para proteger tu información en linea
+
+
+En esta época la seguridad dejó de ser un tema físico y pasó al campo
+digital, hoy vivimos más preocupados por nuestros datos personales y
+accesos que por nuestra billetera, sin embargo la pérdida o robo de
+cualquiera de las dos nos deja expuestos a muchas preguntas y problemas.
+
+Una de las primeras preguntas es, ¿cómo habría podido evitarlo?,
+y esto no lo preguntamos antes porque no sabemos que somos
+vulnerables hasta que tenemos un documento expuesto o
+información confidencial divulgada por medios que no esperábamos.
+
+En parte esta es la razón de ser de este curso, que más allá de
+los expuestos que se corrigen a nivel empresarial, busca proteger
+a las empresas desde las personas.
+
+De aquí la siguiente lista de consejos para proteger tu información
+en línea:
+
+1. Los datos privados deberían seguir manteniendose así
+
+Al igual que somos cuidadosos de no entregar información privada
+a extraños en la calle debemos hacer lo mismo en los sitios web
+que frecuentamos y en las aplicaciones que usamos a diario,
+la mayoría de sitios que generan información confidencial
+como los bancos ya tienen nuestra información, por lo tanto
+las encuestas o formatos online que nos piden información excesiva
+deben ser objeto de cuidado.
+Esto puede pasar en la calle, por mensajes de texto, por correos,
+con pop-ups (pantallas emergentes) e incluso llamadas telefónicas.
+
+Lo más importante es siempre saber quien me está pidiendo la información
+y sobre todo el grado de sensibilidad de esta, en una empresa los niveles
+de confidencialidad generalmente están clasificados, así que debo
+estar atento y sin perder demasiado la calma estar pendiente a todas
+las alertas.
+
+
+2. El sentido común como herramienta esencial:
+
+Muchas veces todo se puede solucionar usando el sentido común,
+y así como no prestaría mi cepillo dental a un conocido y mucho
+menos a un extraño, no debo prestar mis claves ni compartir
+información o documentación que por fuera de un ambiente digital
+no compartiría, si por ejemplo un proveedor me está pidiendo
+información financiera de la empresa, debo acudir a las cartas
+mercantiles que se encuentran en la mayoría de paises de nuestra
+región, y que ya incluyen mucha información acerca de estados
+financieros y que ya fue revisada por un contador y publicada
+para ser pública, de lo contrario y a menos de que no esté estipulado
+en un contrato no debería compartir tal información, así como no
+entrego mis extractos bancarios a mis vecinos o amigos.
+
+
+3. Los buscadores como herramienta de autobusqueda:
+
+Si tenemos una startup o trabajamos en una empresa, es muy común
+hacer estudios de mercado cuando estamos trabajando en un nuevo
+producto o aplicación, sin embargo es importante hacer búsquedas
+constantes de la información disponible en internet de nuestros
+proyectos y de nosotros mismos, muchas veces es más común encontrar
+ya información publicada y hacer las correcciones o denuncias que
+se deban tener a tiempo.
+Acá como ejemplo tenemos a los productores de juego de tronos,
+que en su séptima temporada vieron como internet filtraba algunos
+capítulos de una de las series más vistas pero también más pirateadas
+de los últimos años.
+
+
+4. Revisa los remitentes de los correos:
+
+Generalmente en un ambiente empresarial se suelen utilizar firmas
+de correo con los logos propios de la empresa, así que si no tienes
+una comienza a usarla es una opción que se puede dejar preestablecida
+en la mayoría de servidores de correo electrónico.
+
+Ahora, si llegan correos sin firma es un indicio para tener cuidado,
+así como cuando llega un oficial de transito sin uniforme y sin
+autenticación a pedirnos papeles de nuestro vehículo.
+
+Sin embargo y como lo vamos a ver en los seguidos videos y en otras
+lecturas, no es el único signo que debo revisar, sino quien es el
+remitente del correo, la mayoría de empresas tienen su propio
+dominio XXX@Nombre_Empresa.com, así que un correo que venga de un
+servidor como gmail, hotmail u otros no debe generar tanta confianza.
+
+
+5. Comparte los archivos de forma segura:
+
+Compartir archivos es algo que vamos a tener que hacer tarde o
+temprano, para ello existen muchas herramientas colaborativas que
+nos permiten dar accesos temporales o incluso por medio de una
+contraseña.
+
+La generación de equipos de trabajo es una necesidad imperante sobre
+todo cuando estoy formando una startup, el uso de archivos compartidos
+debe ser algo que esté de acuerdo a los niveles de confidencialidad
+de la información, es así como debemos revisar quienes son revisores,
+editores o dueños de la información que compartimos, para esto
+tenemos herramientas como google drive y Box, no son las únicas así
+que revisa bien las herramientas colaborativas y los permisos que dan.
+
+Esto también aplica para repositorios de desarrollo de código
+donde opciones como bitbucket y github son esenciales a la hora
+de escribir código para tener un proyecto exitoso.
+
+Como conclusión la seguridad es algo que fuera de parecer algo
+engorroso es un compromiso que debemos llevar todos,
+siempre debemos tener claro cual es nuestro nivel de confidencialidad
+en una organización y como los datos con los cuales interactuamos
+a diario pueden llegar a tener una repercusión, es aquí donde
+volvemos a recordar que nuestro sentido común va a ser la herramienta
+más importante para que salgamos al mundo digital con la seguridad
+de que podremos tener nuestros datos seguros.
